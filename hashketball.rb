@@ -10,7 +10,7 @@ def game_hash
     },
     :away => {
       :team_name => "",
-      :color => [],
+      :color => ["Turquoise", "Purple"],
       :players => [{
         :player_name => "Jeff Adrien",
         :number => "",
