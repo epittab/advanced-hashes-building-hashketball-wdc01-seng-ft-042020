@@ -28,7 +28,7 @@ def game_hash
         :slam_dunks => ""
       },
       {
-        :player_name => "DeSagna Diop",
+        :player_name => "Brook Lopez",
         :number => "",
         :shoe => "",
         :points => "",
