@@ -22,7 +22,7 @@ def game_hash
         :blocks => "",
         :slam_dunks => ""
       },{
-        :player_name => "Jeff Adrien",
+        :player_name => "Bismack Biyombo",
         :number => "",
         :shoe => "",
         :points => "",
